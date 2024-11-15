@@ -24,6 +24,8 @@ nvidia-nccl-cu12==2.21.5
 nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.4.127
 packaging==24.2
+paho-mqtt==2.1.0
+pillow==11.0.0
 python-dotenv==1.0.1
 PyYAML==6.0.2
 regex==2024.11.6
@@ -34,6 +36,8 @@ sentencepiece==0.2.0
 sympy==1.13.1
 tokenizers==0.20.3
 torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
 tqdm==4.67.0
 transformers==4.46.2
 triton==3.1.0
